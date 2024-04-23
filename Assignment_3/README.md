@@ -20,6 +20,6 @@ Datasets:
 Solutions:
 - `spancat_sol.ipynb` - 1st solution with using SpanCat library and pretrained model "ru_core_news_lg"
 
-| Solution    | Mention F1  | Mention recall | Mention precision | **Macro F1**|
+|             | Mention F1  | Mention recall | Mention precision | **Macro F1**|
 | ----------- | ----------- | -----------    | -----------       | ----------- |
 | spancat_sol | 0.03%       | 0.02%          | 0.03%             | **0.01%**   |
