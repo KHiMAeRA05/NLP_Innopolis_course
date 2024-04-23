@@ -7,7 +7,7 @@ equally represented.
 
 Thus, I had to develop extraction models for nested named entities.
 
-#### Content
+## Content
 Report:
 -  `report.pdf` - composed report with detailed description of each solution
 Datasets:
