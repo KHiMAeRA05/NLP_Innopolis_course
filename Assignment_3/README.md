@@ -8,8 +8,10 @@ equally represented.
 Thus, I had to develop extraction models for nested named entities.
 
 ## Content
+
 Report:
 -  `report.pdf` - composed report with detailed description of each solution
+  
 Datasets:
 - `train.jsonl` - training data
 - `dev.jsonl` - test data to predict for DEV phase
